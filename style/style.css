@@ -1,0 +1,78 @@
+.colororange{
+    color:rgba(176, 0, 0, 1);
+
+}
+.colordark{
+    color: rgba(128, 128, 128, 1);
+}
+.colorlight{
+    color: rgba(214, 212, 212, 0.88);
+}
+.colorback{
+    background: rgba(176, 0, 0, 1);
+
+}
+.container{
+    height: 521px;
+}
+.web{
+    height: 233px;
+    line-height: 77px;
+}
+.container1{
+    height: 547px;
+    width: 1000px;
+}
+.true{
+    width: 460px;
+    height: 150%;
+}
+.gaps{
+    gap: 5px;
+}
+.img2{
+    width: 259px;
+}
+.box{
+    width: 299px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 25px;
+}
+.box1{
+    justify-content: space-around;
+}
+.ven{
+    width:450px;
+}
+.car{
+    width: 1000px;
+    
+    height: 432px;
+}
+.img34{
+    width: 40px;
+    height: 40px;
+}
+.img342{
+    width: 72px;
+    height: 72px;
+}
+.img123{
+    width: 25px;
+    height: 25px;
+}
+.he{
+    height: 533px;
+}
+.lang1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.lang2 {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
